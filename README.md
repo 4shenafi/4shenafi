@@ -6,7 +6,7 @@
 
 ## 🌱 I’m currently learning ...
 - ALX Backend Software Engineering
-- Angela's 100 Days of Python with Challenge
+- 100 Days of Python coding Challenge on udemy
 - 4th Year Software Engineering Student at Addis Ababa Science and Technology University (AASTU)
 
 ## 💞️ I’m looking to collaborate on ...
