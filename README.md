@@ -308,10 +308,6 @@
 <div align="center">
 
 <a href="https://github.com/4shenafi">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=4shenafi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=61afef&icon_color=d55fde&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/4shenafi">
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=4shenafi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=61afef&fire=d55fde&currStreakLabel=61afef" />
 </a>
 
@@ -386,15 +382,7 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
-<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4shenafi/4shenafi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4shenafi/4shenafi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/4shenafi/4shenafi/output/github-snake-dark.svg" />
-</picture>
-
-<br/><br/>
 
 ```
 $ ./deploy.sh --env production --monitor true --scale auto
