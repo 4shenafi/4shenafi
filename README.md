@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=I+build+backend+systems+and+Telegram+bots.;I+architect+APIs+that+handle+real+traffic.;I+deploy%2C+monitor%2C+and+scale+what+I+build.;Engineering+robust+infra+for+high-throughput+platforms.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=I+build+backend+systems+and+Telegram+bots.;I+architect+APIs+that+handle+real+traffic.;I+deploy%2C+monitor%2C+and+scale+what+I+build.;Engineering+robust+cloud+infrastructure.)](https://git.io/typing-svg)
 
 <br/>
 
