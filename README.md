@@ -314,13 +314,7 @@
 &nbsp;GitHub Stats
 </h2>
 
-<div align="center">
 
-<a href="https://github.com/4shenafi">
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=4shenafi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=61afef&fire=d55fde&currStreakLabel=61afef" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/4shenafi">
 <img src="https://github-profile-trophy.vercel.app/?username=4shenafi&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" />
