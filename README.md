@@ -313,14 +313,21 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
 &nbsp;GitHub Stats
 </h2>
+<div align="center">
 
+<a href="https://github.com/4shenafi">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4shenafi&theme=dracula" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/4shenafi">
+<img height="180" src="https://streak-stats.demolab.com?user=4shenafi&theme=dracula&hide_border=true&background=0d1117&stroke=30363d&ring=61afef&fire=d55fde&currStreakLabel=61afef" />
+</a>
 
+<br/><br/>
 
 <a href="https://github.com/4shenafi">
 <img src="https://github-profile-trophy.vercel.app/?username=4shenafi&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </a>
-
-
 
 </div>
 
