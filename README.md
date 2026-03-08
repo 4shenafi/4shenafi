@@ -52,7 +52,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="profile.jpg" width="360" style="border-radius: 12px;" alt="Ashenafi Pawlos" />
+<img src="https://images.weserv.nl/?url=drive.google.com/uc?id=1Aihe_L6rN83czofSw4-f_E7jQsoE-e2G&h=360&w=360&fit=cover&maxage=7d" width="360" style="border-radius: 12px;" alt="Ashenafi Pawlos" />
 
 </td>
 </tr>
@@ -102,7 +102,10 @@
 
 <!-- TECH STACK -->
 
-<h2 align="center">⚡ Tech Arsenal</h2>
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" />
+&nbsp;Tech Arsenal
+</h2>
 
 <div align="center">
 
@@ -180,7 +183,10 @@
 
 <!-- FEATURED SYSTEMS -->
 
-<h2 align="center">🏗️ Production Systems</h2>
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" alt="Building Construction" width="35" height="35" />
+&nbsp;Production Systems
+</h2>
 
 <div align="center">
 
@@ -303,12 +309,21 @@
 
 <!-- GITHUB STATS -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
+&nbsp;GitHub Stats
+</h2>
 
 <div align="center">
 
 <a href="https://github.com/4shenafi">
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=4shenafi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=61afef&fire=d55fde&currStreakLabel=61afef" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/4shenafi">
+<img src="https://github-profile-trophy.vercel.app/?username=4shenafi&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </a>
 
 
@@ -319,7 +334,10 @@
 
 <!-- CERTIFICATIONS -->
 
-<h2 align="center">🎓 Certifications</h2>
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="35" height="35" />
+&nbsp;Certifications
+</h2>
 
 <div align="center">
 
